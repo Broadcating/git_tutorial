@@ -1,0 +1,2 @@
+Try Git branch feature operation. Git is very convinient tool for version mastery.
+vi is a very powerful tool for command line operation.
